@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://desenrola-gamma.vercel.app/sitemap.xml
+Sitemap: https://informacional.netlify.app/sitemap.xml
