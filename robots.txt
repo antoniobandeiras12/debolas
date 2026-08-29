@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://desenrola-gamma.vercel.app/sitemap.xml
